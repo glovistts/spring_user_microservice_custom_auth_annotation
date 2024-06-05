@@ -1,0 +1,2 @@
+# spring_user_microservice_custom_auth_annotation
+spring user microservice with custom authentication using custom annotation
