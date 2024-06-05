@@ -3,6 +3,9 @@
 
 This project is a Spring Boot microservice that demonstrates user management with custom authentication annotations. It includes features like user registration, JWT token generation, and authentication using custom annotations.
 
+![Untitled design (1)](https://github.com/glovistts/spring_user_microservice_custom_auth_annotation/assets/36082137/5e664700-10ea-43fe-a4cb-be1d77331562)
+
+
 ## Table of Contents
 
 - [Features](#features)
