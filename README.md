@@ -1,6 +1,3 @@
-Certainly! Here's a comprehensive README for your GitHub repository:
-
----
 
 # Spring User Microservice with Custom Auth Annotation
 
